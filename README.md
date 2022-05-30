@@ -37,5 +37,3 @@ manager's area which you think would provide value for them in the future? Note:
 definitely use the analytical tool rather than just database queries for this task. All four area
 managers are not too data-savvy and prefer visual analyses over plain numbers and
 text.
-
-![image](https://user-images.githubusercontent.com/22605673/170986475-9a713049-2537-4f7b-8ac0-c9a64bd97b22.png)
