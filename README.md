@@ -1,17 +1,17 @@
 # Case: Business Intelligence Consultant
-The case resolves around a hypothetical online store called Superstore. They're selling merchandise
-in different product categories to customers within the US. Attached to the document you will find CSV
-which cover information about orders, returns and area managers of Superstore. Please use this data
+The case resolves around a hypothetical online store. They're selling merchandise
+in different product categories to customers within the United States. Attached to the document you will find CSV
+which cover information about orders, returns and area managers of the e-commerce company. Please use this data
 to prepare the following tasks.
 
-Since there are quite some fields in the table covering Superstore's orders, we prepared some
-explanations on the fields contained in the file. Please find them at the end of this document.
-
 ### Tasks
+
+0. You only have read access to this repository, so please fork it to your github account and upload the solution files to share it with us.
+
 1. Attached to this document you will find three CSV files:
-    1. Superstore - Orders.csv
-    2. Superstore - People.csv
-    3. Superstore - Returns.csv
+    1. Orders.csv
+    2. People.csv
+    3. Returns.csv
 
    Please load these files into a database of your choice. This database needs to be accessible to the analytical tool you select for the subsequent tasks. Examples for potential databases include SQLite (stored locally), a Postgres database (server running on localhost or a location of your
 choice) and BigQuery. These are just examples, please feel free to make your own choice. Just
