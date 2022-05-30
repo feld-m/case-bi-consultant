@@ -24,13 +24,13 @@ Desktop is preferred; however, any other BI tool is also fine (e.g., Metabase, P
 
 3. Using either queries on your database or the analytical tool of your choice, please prepare
 answers to the following questions:
-  • We're interested in customers who are spending quite a lot with individual orders. Can you
+    1. We're interested in customers who are spending quite a lot with individual orders. Can you
 tell us how many customers there are which have placed at least one order in which their
 total sales amount exceeded 2,000$?
-  • We're a little bit worried about the increasing number of returns. Can you look into the data
+    2. We're a little bit worried about the increasing number of returns. Can you look into the data
 on return and see whether you can find any valuable information on these returns? e.g. in
 the context of product category, time, etc.
-  • Imagine you - in the role of a BI analyst - had a meeting with one of the area managers
+    3. Imagine you - in the role of a BI analyst - had a meeting with one of the area managers
 coming up next week (which of them you'd like to meet is up to your choice). Can you dive
 into the data and come up with some valuable insights on the business in the respective
 manager's area which you think would provide value for them in the future? Note: Please
