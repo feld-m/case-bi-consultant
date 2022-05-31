@@ -24,11 +24,11 @@ answers to the following questions:
 tell us how many customers there are which have placed at least one order in which their
 total sales amount exceeded 2,000$?
     2. We're a bit worried about the increasing number of returns. Can you look into the data
-on return and see whether you can find any valuable information on these returns, e.g., in
+on returns and see whether you can find any valuable information on these returns, e.g., in
 the context of product category, time?
     3. Imagine you – in the role of a BI consultant – had a meeting with one of the area managers
 coming up next week (which of them you'd like to meet is up to your choice). 
-       1. Can you prepare a dashboard which allows you to evaluate key performance indicators (KPI) of the region. The manager didn't provide you any requirements and expects to take the first shot. Therefore, be prepared to discuss your approach in the meeting.
+       1. Can you prepare a dashboard which allows you to evaluate key performance indicators (KPI) of the region. The manager didn't provide you with any requirements and expects to take the first shot. Therefore, be prepared to discuss your approach in the meeting.
        2. Using the developed dashboard and any additional analysis, can you dive into the data and come up with some valuable insights on the business in the respective manager's region which you think would provide value for them in the future?
        NOTE: All four area managers are not too data-savvy and prefer visual analyses over plain numbers and text.
 
