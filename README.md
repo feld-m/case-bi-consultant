@@ -37,3 +37,9 @@ coming up next week (which of them you'd like to meet is up to your choice).
 
 4. Archive your work and send it to the person who provided you the case via email.
    NOTE: The archive file should contain your SQL queries and the BI tool outcome – ideally format which allows us to review your work (e.g.,Tableau Packaged Workbook) but any other export will do (e.g., screenshots)
+   
+### What we’ll be evaluating your submissions on
+
+1. Your work is accurate, easy to read & interpret and shows tendency for reusability & maintainability
+2. Your work work follows best data visualisation practices, e.g., appropriate chart types, suitable dashboard structure
+3. Your work considers the business / data at hand and the likely requirements of the stakeholder
