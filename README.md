@@ -11,16 +11,14 @@ to prepare the following tasks.
     2. People.csv
     3. Returns.csv
 
-Please load these files into a database of your choice. This database needs to be accessible to the analytical tool you select for the subsequent tasks. 
-Examples for potential databases include SQLite (stored locally), a Postgres database (server running on localhost or a location of your choice) and BigQuery. These are just examples, please feel free to make your own choice. Just
-don't work simply based on the CSV files. You can choose whether to import the data into your database via a data import wizard (e.g. provided as part of the SQL IDE Dbeaver) or by writing a Python script.
+Please load these files into a database of your choice. This database needs to be accessible to Power BI for the subsequent tasks. 
+Examples for potential databases include Postgres database (server running on localhost or a location of your choice) and BigQuery. These are just examples, please feel free to make your own choice. Just don't work simply based on the CSV files. You can choose whether to import the data into your database via a data import wizard (e.g. provided as part of the SQL IDE Dbeaver) or by writing a Python script.
 
 
-2. Choose a tool that you would like to use for analysis of the previously imported data. Tableau
-Desktop is preferred; however, any other BI tool is also fine (e.g., Metabase, PowerBI)
+2. For Visualization, please use Microsoft Power BI.
 
 
-3. Using either queries on your database or the analytical tool of your choice, please prepare
+3. Using either queries on your database or Power BI, please prepare
 answers to the following questions:
     1. We're interested in customers who are spending quite a lot with individual orders. Can you
 tell us how many customers there are which have placed at least one order in which their
@@ -36,7 +34,7 @@ coming up next week (which of them you'd like to meet is up to your choice).
 
 
 4. Archive your work and send it to the person who provided you the case via email.
-   NOTE: The archive file should contain your SQL queries and the BI tool outcome – ideally format which allows us to review your work (e.g.,Tableau Packaged Workbook) but any other export will do (e.g., screenshots)
+   NOTE: The archive file should contain your SQL queries and Power BI's outcome – ideally in a format which allows us to review your work (e.g., use import query mode or provide us the DB's credentials in use).
    
 ### What we’ll be evaluating your submissions on
 
