@@ -18,7 +18,7 @@ Examples for potential databases include Postgres database (server running on lo
 2. For Visualization, please use Tableau.
 
 
-3. Using SQL on your database, We're interested in customers who are spending quite a lot with individual orders. Can you
+3. Using SQL on your database, we're interested in customers who are spending quite a lot with individual orders. Can you
 tell us how many customers there are which have placed at least one order in which their
 total sales amount exceeded 2,000$?
   
