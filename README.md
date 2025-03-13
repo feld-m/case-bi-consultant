@@ -15,7 +15,7 @@ Please load these files into a database of your choice. This database needs to b
 Examples for potential databases include Postgres database (server running on localhost or a location of your choice) and BigQuery. These are just examples, please feel free to make your own choice. Just don't work simply based on the CSV files. You can choose whether to import the data into your database via a data import wizard (e.g. provided as part of the SQL IDE Dbeaver) or by writing a Python script.
 
 
-2. For Visualization, please use Tableau.
+2. For Visualization, please use Tableau Desktop (if you do not have a license, you can start a [free trial](https://www.tableau.com/en-gb/products/trial)).
 
 
 3. Using SQL on your database, we're interested in customers who are spending quite a lot with individual orders. Can you
