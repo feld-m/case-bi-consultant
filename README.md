@@ -26,9 +26,11 @@ total sales amount exceeded 2,000$?
     1. We're a bit worried about the increasing number of returns. Can you look into the data
 on returns and see whether you can find any valuable information on these returns, e.g., in
 the context of product category, time?
-    2. Imagine you – in the role of a BI consultant – had a meeting with one of the area managers
-coming up next week (which of them you'd like to meet is up to your choice). 
-       1. Can you prepare a dashboard which allows you to evaluate key performance indicators (KPI) of the region. The manager didn't provide you with any requirements and expects to take the first shot. Therefore, be prepared to discuss your approach in the meeting.
+    2. Imagine you – in the role of a BI consultant – had a meeting with one of the area managers coming up next week (which of them you'd like to meet is up to your choice).
+       1. Can you prepare a dashboard which allows you to evaluate key performance indicators (KPI) of the region. The manager didn't provide you with many requirements except the message below; however, the manager wants you to take your own initiative and have something ready when you meet.
+
+          "I want to be able to quickly compare current period vs previous period for each KPI for my region. Ideally, I would have a filter with these options: This Year, This Quarter and This Month. When one of those are selected, I would also see the performance of one of those: Previous Year, Previous               Quarter and Previous Month. Additionally, it would be great to have one compeletly custom date range option, e.g., 1/2/2021 as a start date and 15/3/2022 as an end date. It should be affecting the same KPIs charts and similarly as above showing in addition the performance in the previous period as             in the range of the selected custom date option. Do you think you can make this happen?"
+
        2. Using the developed dashboard and any additional analysis, can you dive into the data and come up with some valuable insights on the business in the respective manager's region which you think would provide value for them in the future?
        NOTE: All four area managers are not too data-savvy and prefer visual analyses over plain numbers and text.
 
